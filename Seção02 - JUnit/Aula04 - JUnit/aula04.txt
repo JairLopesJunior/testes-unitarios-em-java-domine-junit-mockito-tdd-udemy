@@ -1,0 +1,11 @@
+Padrão xUnit, o que ele especifica?
+
+TestRunner // Que é quem vai executar os testes e coletar os resultados.
+
+TestFixture // Também conhecido como Teste Context, que são as pré condicões necessárias aos testes.
+
+TestSuites // Que é onde eu posso elencar os testes que devem ser executados.
+
+TestResultFormatter // Que é quem vai padronizar o resultado dos testes.
+
+Assertions // Que verifica o comportamento ou estado do que esta sendo testado, geralmente atravez de uma expressão logica.
