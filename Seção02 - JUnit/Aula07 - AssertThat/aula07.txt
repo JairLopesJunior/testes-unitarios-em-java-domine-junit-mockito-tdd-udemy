@@ -1,0 +1,7 @@
+AssertThat (Verifique que)
+
+Motivos para se utilizar:
+
+- Deve ser generico pois a partir deste ponto eu posso realizar qualquer verificação.
+
+- Deixa a leitura do metodo mais facil, (Martin Fowler) uma das primeiras pessoas a comentar sobre isto.
