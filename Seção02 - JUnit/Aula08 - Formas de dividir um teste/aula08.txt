@@ -1,0 +1,3 @@
+Formas de dividir um teste
+
+Rules = Ele me permite alterar alguns comportamentos dos testes, é possivel criar regras próprias também, porem o JUnit ja vem com algumas criadas.
