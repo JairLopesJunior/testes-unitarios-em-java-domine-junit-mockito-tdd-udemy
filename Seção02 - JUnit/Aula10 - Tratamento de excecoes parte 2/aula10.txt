@@ -1,0 +1,9 @@
+Tratamentos de exceções parte 2
+
+Existem 3 formas para se tratar exceções:
+
+ELEGANTE: Tem este nome por que ela é muito simples e enxuta, porem ela é superficial.
+
+ROBUSTA: É a forma que tenho mais poder de execução.
+
+NOVA: O JUnit que faz os tratamentos e verifica e garantir que esta com sucesso.
