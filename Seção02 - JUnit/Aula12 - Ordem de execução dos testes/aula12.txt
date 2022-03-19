@@ -1,0 +1,11 @@
+Ordem de execução dos testes
+
+O JUnit não mantém a ordem execução dos testes.
+
+
+
+Como podemos manter a ordem?
+
+1- Uma forma simples é criar metodos sem ser de teste, depois criar um de teste que chama os outros metodos dentro.
+
+2- A segunda forma seria com esta annotation @FixMethodOrder(MethodSorters.NAME_ASCENDING) que nos permite executar os testes em ordem alfabetica.
