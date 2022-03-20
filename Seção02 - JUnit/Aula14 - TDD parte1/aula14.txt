@@ -1,0 +1,25 @@
+TDD (Test Driven Development - Desenvolvimento Orientado por Testes)
+
+- Primeiro eu faço o teste.
+- Em seguida eu faço o código com o minimo necessário para o teste passar.
+- E por último a refatoração se necessário.
+
+
+FIRST:
+
+Timely (Tempo Oportuno) ele beneficia em duas formas que são:
+
+- Retorno de Investimento: O quanto antes eu fizer mais vezes eu poderei executar os testes e menos tempo eu vou perder.
+
+- Qualidade do código gerado: O codigo que foi gerado para atender um teste ele é mais aberto, mais simples, o desenvolvedor vai tentar simplificar
+o cenário de teste dele e isto impacta diretamente no codigo.
+
+
+Motivos pelo qual as empresas não utilizam o TDD:
+
+- Curva de aprendizado: Por mais simples que pareça não é trivial quebrar algumas funcionalidades em pequenos incrementos, isto requer prática que vai adquirindo com o tempo.
+
+- O TDD não vai acelerar o seu desenvolvimento, na verdade voce vai investir mais tempo na criacao de todos esses testes, o retorno virá
+em fases mais avancadas do projeto (A fase que paramos tudo so por causa dos defeitos, entao aqui esta fase não será tão estressante).
+
+- Também tem a questão da Cultura, jaé dificil encontrar empresas com cultura de testes imagina de TDD.
