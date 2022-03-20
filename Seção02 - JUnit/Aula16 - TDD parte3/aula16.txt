@@ -1,0 +1,5 @@
+TDD parte 3
+
+
+O TDD também ajuda caso quebre alguma funcionalidade que ja possui teste, ao rodar a suite de testes o mesmo irá falhar, apontando
+que foi "mexido onde não deveria".
