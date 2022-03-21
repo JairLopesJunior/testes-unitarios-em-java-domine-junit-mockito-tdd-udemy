@@ -1,0 +1,6 @@
+@Ignore e Assumptions
+
+
+@Ignore = Ignora um teste, ou seja, não executa o mesmo.
+
+Assume.assumeFalse(DataUtils.verificarDiaSemana(new Date(), Calendar.SATURDAY)) = Com este recurso podemos executar o teste somente com a logica que queremos.
