@@ -1,0 +1,4 @@
+Matchers Próprios
+
+Podemos criar nosso próprio Matcher para ser utilizado no assertThat, voce pode criar um Matcher tanto para melhorar a legibilidade do seu código
+quanto para centralizar alguma regra especifica do seu projeto.
