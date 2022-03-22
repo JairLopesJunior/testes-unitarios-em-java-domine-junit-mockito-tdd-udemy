@@ -1,0 +1,5 @@
+Dependências Externas
+
+Como reconhecer um Teste Unitário?
+
+- Um Teste Unitário não deve ter dependência Externa, como acesso ao banco, rede, arquivo ou qualquer outra entidade externa que desejamos testar.
