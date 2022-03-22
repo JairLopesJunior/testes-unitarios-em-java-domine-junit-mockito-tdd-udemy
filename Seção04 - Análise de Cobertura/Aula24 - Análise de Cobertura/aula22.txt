@@ -1,0 +1,9 @@
+Análise de Cobertura
+
+
+Duas das Metricas que podemos extrair a partir da execução dos Testes Unitários são:
+
+- O percentual de aceitação dos testes: É apenas a quantidade de testes executados com sucesso dividido pala quantidade de testes executados
+no geral.
+
+- O percentual de cobertura dos testes.
