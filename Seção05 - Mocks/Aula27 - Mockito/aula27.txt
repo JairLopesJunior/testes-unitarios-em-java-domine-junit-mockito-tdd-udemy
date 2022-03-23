@@ -1,0 +1,7 @@
+Mockito
+
+
+- Possui este nome por que na verdade ele não gera objetos fakes ele gera objetos mock, a principal diferença entre fakes e mocks é que 
+nos mocks sou capaz também de definir comportamentos dinamicos e inclusive verificar se ele foi utilizado da forma esperada.
+
+- Para utilizar o mockito precisa adicionar a depndência no pom do projeto.
