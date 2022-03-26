@@ -1,0 +1,6 @@
+PowerMock
+
+Existe operações em que o Mockito não consegue trabalhar Ex: Mockar o construtor de um Objeto, alterar o comportamento de algum metodo
+estático ou privados, se precisar utilizar alguma dessas formas pode se utilizar o PowerMock.
+
+É um framework.
