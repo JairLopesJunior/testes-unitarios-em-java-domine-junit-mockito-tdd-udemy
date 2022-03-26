@@ -1,0 +1,4 @@
+Spy
+
+Spy = Tem o comportamento parecido com o @Mock porem sem o valor padrão, ele realmente executa o método na ação 
+caso não saiba o que fazer, por conta disto o Spy somente funciona com classes concretas e não com interfaces.
