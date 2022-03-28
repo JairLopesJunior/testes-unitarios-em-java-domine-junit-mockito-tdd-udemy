@@ -1,0 +1,5 @@
+Execução dos testes via Maven
+
+1- Instalar o Maven pelo terminal.
+
+2- Configurar a Variável de Ambiente.
